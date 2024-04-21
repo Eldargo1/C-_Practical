@@ -5,7 +5,7 @@ int i = 0;
 {
 //Console.WriteLine(i); // для выводв цифр друг под другом 
 Console.Write(i); // для выводв цифр в строку
-Console.Write(' ');
+Console.Write(' '); // поставить между числами разделитель
 i= i + 1;
 }
 
