@@ -14,3 +14,15 @@ while(i < array.Length)
     Console.Write(array[i]+ " ");
     i = i + 1;
 }
+//  сам выполнил задание с рандомным числом
+
+// int N = new Random().Next(10,90);
+// Console.WriteLine(N);
+// int [] array = new int [N];
+// int i = 0;
+// while(i < array.Length)
+// {
+//     array[i]= i +1;
+//     Console.Write(array[i]+ " ");
+//     i = i + 1;
+// }
